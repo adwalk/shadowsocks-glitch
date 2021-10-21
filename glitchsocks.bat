@@ -1,0 +1,1 @@
+node local.js -s glisocks.glitch.me -l 1080 -m rc4 -k adwalk -r 80
